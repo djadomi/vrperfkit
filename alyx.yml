@@ -15,7 +15,7 @@ upscaling:
   # resolution is 1000x1000.
   # NOTE: this is different from how render scale works in SteamVR! A SteamVR
   # render scale of 0.5 would be equivalent to renderScale 0.707 in this mod!
-  renderScale: 0.9
+  renderScale: 0.7
   # configure how much the image is sharpened during upscaling.
   # This parameter works differently for each of the upscaling methods, so you
   # will have to tweak it after you have chosen your preferred upscaling method.
