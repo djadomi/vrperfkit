@@ -8,7 +8,7 @@ upscaling:
   # - fsr (AMD FidelityFX Super Resolution)
   # - nis (NVIDIA Image Scaling)
   # - cas (AMD FidelityFX Contrast Adaptive Sharpening)
-  method: cas
+  method: nis
   # control how much the render resolution is lowered. The renderScale factor is
   # applied to both width and height. So if renderScale is set to 0.5 and you
   # have a resolution of 2000x2000 configured in SteamVR, the resulting render
